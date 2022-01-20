@@ -13,8 +13,8 @@
 
     Before sample:
 
-    ![Before Sample](../master/sample.jpg)
+    ![Before Sample](sample.jpg)
 
     After sample:
 
-    ![After Sample](../master/greyscale-sample.jpg)
+    ![After Sample](greyscale-sample.jpg)
