@@ -13,8 +13,8 @@
 
     Before sample:
 
-    ![Before Sample](https://github.com/CurtisBeauchamp/Image-to-Greyscale/blob/main/sample.jpg)
+![Before Sample](https://github.com/CurtisBeauchamp/Image-to-Greyscale/blob/main/sample.jpg)
 
     After sample:
 
-    ![After Sample](https://github.com/CurtisBeauchamp/Image-to-Greyscale/blob/main/greyscale-sample.jpg)
+![After Sample](https://github.com/CurtisBeauchamp/Image-to-Greyscale/blob/main/greyscale-sample.jpg)
